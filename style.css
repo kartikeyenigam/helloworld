@@ -1,0 +1,26 @@
+*{
+    background-color: #222;
+    color:#eee;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lora', serif;
+}
+body{
+    margin : 50px 400px 100px 650px;
+    max-width: 400px;
+    line-height: 2.0;
+    border: 10px solid blue;
+}
+
+h1{
+    padding-left: 20px;
+}
+
+a{
+    color: lightskyblue;
+}
+
+.sports{
+    color: maroon;
+}
+.r5{
+}
